@@ -1,0 +1,39 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background-image: url('https://img.freepik.com/free-photo/science-background-with-molecule-atom-abstract-structure-science-medical-background-3d-illustration_36845-253.jpg?size=626&ext=jpg');
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: rgb(255, 255, 255, 0.2);
+}
+
+.container {
+  background-color: rgb(255, 255, 255, 0.95);
+
+  /* background-color: rgb(255, 255, 255, 0.95); */
+  opacity: 0.95;
+}
+
+.panel-heading {
+  background-color: #83b588 !important;
+}
+
+h2 {
+  color: #83a388;
+}
+select {
+  width: 90%;
+}
+
+select {
+  outline: none;
+}
